@@ -346,6 +346,10 @@ vendor/grammars/denizenscript-grammar:
 - source.denizenscript
 vendor/grammars/desktop.tmbundle:
 - source.desktop
+- scopeName: source.diamondback
+  name: Diamondback
+  path: syntaxes/diamondback.tmLanguage.json
+  repository: https://github.com/Diamondback-Development/vscode-language-pack-diamondback/tree/master/syntaxes
 vendor/grammars/diff.tmbundle:
 - source.diff
 vendor/grammars/dm-syntax:
