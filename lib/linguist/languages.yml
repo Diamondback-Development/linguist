@@ -1432,6 +1432,15 @@ D2:
   tm_scope: source.d2
   ace_mode: text
   language_id: 37531557
+Diamondback:
+  type: programming
+  color: "#ffcc00"
+  extensions:
+    - .diba
+    - .dbl
+  tm_scope: source.diamondback
+  ace_mode: text
+  language_id: 898989
 DIGITAL Command Language:
   type: programming
   aliases:
